@@ -40,7 +40,9 @@
 ---
 
 ### 📰 Recent Highlights
-
+* **Publication:** *Gut microbiome-mediated transformation of dietary phytonutrients is associated with health outcomes* (Nature Microbiology, 2025). [Read Article](https://www.nature.com/articles/s41564-025-02197-z)
+* **Publication:** *ATF6 activation alters colonic lipid metabolism causing tumour-associated microbial adaptation* (Nature Metabolism, 2024). [Read Article](https://www.nature.com/articles/s42255-025-01350-6)
+* **Publication:** *Emergence of community behaviors in the gut microbiota upon drug treatment* (Cell, 2024). [Read Article](https://www.nature.com/articles/s42255-025-01350-6)
 ---
 
 <div align="center">
