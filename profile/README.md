@@ -21,10 +21,6 @@
 
 ---
 
-### 🧬 Core Research Areas
-
-### 🛠️ Key Software & Repositories
-
 #### 🦠 Microbiome & Modeling
 
 #### 🧪 Metabolomics & Data Analysis
