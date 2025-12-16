@@ -33,7 +33,7 @@
 <img src="https://img.shields.io/badge/PYTHON-gradient?style=for-the-badge&logo=python&logoColor=white&labelColor=3776AB&color=FFD43B" alt="Python"></a>
 <img src="https://img.shields.io/badge/R-gradient?style=for-the-badge&logo=r&logoColor=white&labelColor=276DC3&color=75AADB" alt="R"></a>
 <img src="https://img.shields.io/badge/DOCKER-gradient?style=for-the-badge&logo=docker&logoColor=white&labelColor=2496ED&color=099CEC" alt="Docker"></a>
-<img src="https://img.shields.io/badge/CWL-gradient?style=for-the-badge&logo=commonworkflowlanguage&logoColor=white&labelColor=B5314C&color=E36B7E" alt="CWL"></a>
+<img src="https://img.shields.io/badge/NEXTFLOW-gradient?style=for-the-badge&logo=nextflow&logoColor=white&labelColor=27BA6C&color=41E29F" alt="Nextflow"></a>
 <img src="https://img.shields.io/badge/METABOLOMICS-gradient?style=for-the-badge&logo=graphql&logoColor=white&labelColor=4B0082&color=9932CC" alt="Metabolomics"></a>
 </div>
 
