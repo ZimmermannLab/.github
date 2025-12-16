@@ -41,7 +41,7 @@
 
 ### 📰 Recent Highlights
 * **Publication:** *Development of a GC-MS/MS method to quantify 120 gut microbiota-derived metabolites* (Springer Nature, 2025). [Read Article](https://link.springer.com/article/10.1007/s00216-025-06256-6)
-* * **Publication:** *Gut bacteria generate prodrugs in situ increasing systemic drug exposure* (bioRxiv, 2025). [Read Article](https://www.biorxiv.org/content/10.64898/2025.12.09.692405v1))
+* **Publication:** *Gut bacteria generate prodrugs in situ increasing systemic drug exposure* (bioRxiv, 2025). [Read Article](https://www.biorxiv.org/content/10.64898/2025.12.09.692405v1))
 * **Publication:** *Gut microbiota carcinogen metabolism causes distal tissue tumours* (Nature, 2024). [Read Article](https://www.nature.com/articles/s41586-024-07754-w)
 * **Publication:** *Unraveling interindividual differences and functional consequences of gut microbial metabolism of immunosuppressants* (biRxXiv, 2024). [Read Article](https://www.biorxiv.org/content/10.1101/2024.03.28.586928v4)
 ---
