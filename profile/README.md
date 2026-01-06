@@ -21,9 +21,9 @@
 
 ---
 
-#### 🦠 Microbiome & Modeling
+#### 🦠 Microbiome
 
-#### 🧪 Metabolomics & Data Analysis
+#### 🧪 Metabolomics
 
 ---
 
