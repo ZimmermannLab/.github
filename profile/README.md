@@ -13,6 +13,9 @@
   <a href="https://bsky.app/profile/zimmermannlab.bsky.social">
     <img src="https://img.shields.io/badge/Follow-BLUESKY-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="bsky">
   </a>
+  <a href="https://zimmermannlab.github.io/services-webpage/">
+    <img src="https://img.shields.io/badge/Visit-ShinyApps%20Explorer-2D5016?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website">
+  </a>
 </div>
 
 <br />
