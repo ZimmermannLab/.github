@@ -14,7 +14,7 @@
     <img src="https://img.shields.io/badge/Follow-BLUESKY-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="bsky">
   </a>
   <a href="https://zimmermannlab.github.io/services-webpage/">
-    <img src="https://img.shields.io/badge/Explore-ShinyApps-2D5016?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website">
+    <img src="https://img.shields.io/badge/Explore-WebApps-2D5016?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website">
   </a>
 </div>
 
